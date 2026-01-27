@@ -1,4 +1,4 @@
-# README: Exploring and Visualizing the Iris Dataset
+# Exploring and Visualizing the Iris Dataset
 
 ## Task Objective
 
