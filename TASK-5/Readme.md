@@ -64,3 +64,8 @@ The classification model achieved the following metrics:
 - **Prioritize Past Success:** Target customers with a "poutcome_success" status for the highest conversion potential.  
 - **Improve Engagement:** Sales representatives should be trained to extend call durations and improve engagement quality to boost acceptance.  
 - **Niche Targeting:** Tailor marketing strategies specifically toward **students** and **retired individuals**, as these groups exhibit higher relative acceptance rates.
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
