@@ -55,3 +55,8 @@ The project follows a structured data science workflow:
 
 - **Business Recommendation**  
   The bank should focus targeted retention strategies on **older, high-balance customers** who show signs of inactivity.
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
