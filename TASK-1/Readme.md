@@ -46,3 +46,8 @@ The exploratory analysis yielded several key findings regarding the Iris species
 - **Outliers:**  
   The dataset is highly consistent with very few outliers.  
   Virginica displays a wider spread in measurements compared to the more consistent Versicolor.
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
