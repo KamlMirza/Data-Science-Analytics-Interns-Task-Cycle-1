@@ -51,3 +51,8 @@ The model's accuracy was evaluated using standard regression metrics:
 - **Secondary Factors:** Both **age** and **BMI** contribute positively to costs.
 - **Interaction Effects:** High BMI is particularly expensive for individuals who smoke.
 - **Future Improvements:** While Linear Regression provides a solid baseline, using non-linear models like **Random Forest** or **Gradient Boosting** could better capture the complex interactions between BMI and smoking status.
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
