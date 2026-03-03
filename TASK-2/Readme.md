@@ -41,3 +41,8 @@ The project followed a structured **machine learning pipeline**:
 ### Recommendations
 - Implement techniques like **SMOTE** to handle class imbalance.
 - Explore alternative models, such as a **Random Forest Classifier**, to improve sensitivity toward high-risk applicants.
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
